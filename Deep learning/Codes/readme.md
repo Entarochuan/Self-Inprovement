@@ -1,3 +1,3 @@
 ### 代码参考 : Dive into Deep Learning 
 
-使用jupyter notebook实现
+使用 jupyter notebook 实现
